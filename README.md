@@ -31,7 +31,7 @@ GND --- GND
 ![](https://imgur.com/YZGbBMs.jpg)
 ![](https://imgur.com/Fl40oif.jpg)
 ![](https://imgur.com/1XUphLm.jpg)
-https://imgur.com/mndwOSv.jpg
+
 Also, note that the stepper motor runs off of 12 volts and needs it's own power supply.
 
 ### Run the Arduino
