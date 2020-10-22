@@ -8,7 +8,7 @@ Open the STL files in your favorite slicer program. I use [Cura]("https://ultima
 
 For the main flamethrower housing, print it standing up.  It uses more plastic than if you print it on it's back, but it probably needs supports either way, and it's easier if the supports don't interface with the sides that hold the hairspray and the candle.
 
-![](https://i.imgur.com/Qid2f4N.jpg)
+![](https://i.imgur.com/kyeALLs.jpg)
 
 ### Prepare the Stepper Motor
 
