@@ -38,7 +38,11 @@ Also, note that the stepper motor runs off of 12 volts and needs it's own power 
 
 Load the flamethrower.ini file onto your Arduino. You should then be able to send a number to the Arduino over the Serial Monitor (Tools -> Serial Monitor), and see your motor move that number of steps. You may also need to edit the `stepsPerRevolution` variable in the .ini file based on your specific motor.
 
+
+### Add bluetooth Module
+
 You can also add a bluetooth module to the Arduino. You can get an HM10 module from ebay for about $3, which works great. The TX and RX pins on the bluetooth module hook up to pins D2 and D3 of the Arduino respectively. The only real quark with the bluetooth implementation is that I wanted to send the number of steps in a single byte over the bluetooth. A byte gives you values from 0 to 255. So if I am sending a negative value, I just added 100 to that value. So sending a `50` to the Arduino over bluetooth would be decoded as `50` steps, and sending a value of `125` over the bluetooth to the Arduino would be decoded as a `-25` step rotation.
+
 
 ### Run the App
 
