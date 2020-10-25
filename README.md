@@ -6,7 +6,11 @@
 
 Open the STL files in your favorite slicer program. I use [Cura]("https://ultimaker.com/software/ultimaker-cura"), it's free, easy to setup, and I haven't had any trouble with it. 
 
-For the main flamethrower housing, print it standing up.  It uses more plastic than if you print it on it's back, but it probably needs supports either way, and it's easier if the supports don't interface with the sides that hold the hairspray and the candle.
+For the main flamethrower housing, I would suggest printing it standing up. It uses more plastic than if you print it on it's back, but it probably needs supports either way, and it's easier if the supports don't interface with the sides that hold the hairspray and the candle. I also, found that printing it with a raft helped a lot. If you're using cura, then you can change to raft under "Build Plate Adhesion."
+
+Once it's printed you'll need a 4mm screw and nut to hold the gear in place.
+
+Also, it's probably best to print the small gear first, so you can match it to your stepper motor and be sure that it's going to fit.
 
 ![](https://i.imgur.com/kyeALLs.jpg)
 
